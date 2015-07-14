@@ -1,3 +1,7 @@
+console.log(sessionId);
+console.log(apiKey);
+console.log(token);
+
 // Initialize an OpenTok Session object
 var session = TB.initSession(sessionId);
 
